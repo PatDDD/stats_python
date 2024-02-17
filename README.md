@@ -1,2 +1,2 @@
 # stats_python
-this repo is used to stored some practice codes for statistical learning
+this repo is used to store some practice python codes for statistical learning (practice makes perfect!)
